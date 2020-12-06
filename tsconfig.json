@@ -1,7 +1,7 @@
 {
     "extends": "@tsconfig/node14/tsconfig.json",
     "include": [
-        "src/day05.ts"
+        "src/*.ts"
     ],
     "exclude": ["node_modules", "**/*.spec.ts"],
     "compilerOptions": {

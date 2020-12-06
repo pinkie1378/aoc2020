@@ -2,7 +2,9 @@
     "name": "advent-2020",
     "type": "module",
     "dependencies": {
-        "bent": "^7.3.12"
+        "@types/lodash": "^4.14.165",
+        "bent": "^7.3.12",
+        "lodash": "^4.17.20"
     },
     "devDependencies": {
         "@tsconfig/node14": "^1.0.0",
