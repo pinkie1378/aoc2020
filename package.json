@@ -1,14 +1,18 @@
 {
     "name": "advent-2020",
+    "description": "Solutions for 2020 Advent of Code",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pinkie1378/aoc2020"
+    },
+    "license": "MIT",
     "type": "module",
     "dependencies": {
+        "@types/bent": "^7.3.2",
         "@types/lodash": "^4.14.165",
         "bent": "^7.3.12",
-        "lodash": "^4.17.20"
-    },
-    "devDependencies": {
-        "@tsconfig/node14": "^1.0.0",
-        "@types/bent": "^7.3.2",
+        "lodash": "^4.17.20",
+        "ts-node": "^9.1.0",
         "typescript": "^4.1.2"
     }
 }

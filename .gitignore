@@ -1,4 +1,4 @@
 node_modules
 built
 .token
-.vscode
+.vscode/settings.json
